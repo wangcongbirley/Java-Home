@@ -10,9 +10,7 @@
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
 
 ## Introduction
-Now you're viewing a doc-type template repository, you’ll see a brand new <kbd>Use this template</kbd> button that enables you to get started with that codebase in seconds. 
-
-<div align="center"> <img src="./images/use-this-template-button.png"/> </div>
+Now you're viewing a doc repository, you’ll see a brand new <kbd>Use this template</kbd> button that enables you to get started with that codebase in seconds. 
 
 The template repository gets a new URL endpoint called `/generate` that allows you to distribute your template more efficiently. And all you need to do is name your project and clone your new repository to get started.
 
