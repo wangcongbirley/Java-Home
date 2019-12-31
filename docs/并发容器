@@ -1,0 +1,2 @@
+ConcurrentHashMap，相当于加锁的HashMap。读操作几乎不需要加锁，写操作通过锁分段只对所操作的段佳作而不影响客户端对其他段的访问。
+CopyOnWriteArrayList，相当于加锁的List。读多写少的场景下，性能好于vector。
