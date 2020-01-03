@@ -10,7 +10,8 @@
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
 
 ## 介绍
-互联网 Java 工程师进阶技术和思考：主要包括Java基础深入，微服务，高并发知识。
+Java 工程师技术和思考：包括Java基础深入，微服务，高并发知识。
+写博客为主，打造自身知识体系。
 Now you're viewing a doc repository, you’ll see a brand new <kbd>Use this template</kbd> button that enables you to get started with that codebase in seconds. 
 
 The template repository gets a new URL endpoint called `/generate` that allows you to distribute your template more efficiently. And all you need to do is name your project and clone your new repository to get started.
