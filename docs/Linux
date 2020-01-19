@@ -1,8 +1,9 @@
 工具：SecureCRT的SSH远程登录。
 命令：
 ps
-kill
+kill -9 端口号 强制杀死进程
 cd 
 mv
 pwd
 systemctl get-default 查看默认启动方式
+
