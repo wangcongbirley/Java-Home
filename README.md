@@ -3,12 +3,6 @@
 Github用户如果访问速度缓慢的话，可以转移到[码云](https://gitee.com/)查看，或者[在线阅读]()。
 
 <p align="center">
-<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
-	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
-</a>
-</p>
-
-<p align="center">
   <a href=""><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
 </p>
