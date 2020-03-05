@@ -1,7 +1,8 @@
+Github用户如果访问速度慢的话，点击[在线阅读](https://wangcongbirley.gitee.io/sjg/)
 
 <p align="center">
 <a href="https://github.com/wangcongbirley/Senior-Java-Guide" target="_blank">
-	<img src="./images/logo.png" width="18%" />
+	<img src="./images/logo.png" width="20%" />
 </a>
 </p>
 
