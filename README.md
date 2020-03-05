@@ -3,7 +3,7 @@
 Github用户如果访问速度缓慢的话，可以转移到[码云](https://gitee.com/)查看，或者[在线阅读]()。
 <p align="center">
 <a href="https://github.com/wangcongbirley/Senior-Java-Guide" target="_blank">
-	<img src="./images/github-doocs.png" width=""/>
+	<img src="./images/github-doocs.png"width="20px" hight="20px"/>
 </a>
 </p>
 <p align="center">
