@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/wangcongbirley/Senior-Java-Guide" target="_blank">
-	<img src="./images/github-doocs.png" width="18%" />
+	<img src="./images/logo.jpg" width="18%" />
 </a>
 </p>
 
