@@ -22,6 +22,7 @@ Github用户如果访问速度慢的话，点击[在线阅读](https://wangcongb
     - [微服务](#微服务)
         - [Spring Cloud](#spring-cloud)
         - [配置中心](#配置中心)
+	- [缓存](#缓存) 
     - [分布式](#分布式)
         - [Elasticsearch](#elasticsearch)
         - [消息队列](#消息队列)
@@ -69,6 +70,9 @@ Github用户如果访问速度慢的话，点击[在线阅读](https://wangcongb
 - [SpringCloud学习与面试](docs/springcloud.md)
 
 #### 配置中心
+
+#### 缓存
+- [为什么使用redis？redis使用不当会造成哪些后果](docs/cache/redis.md)
 
 ### 分布式
 
