@@ -1,5 +1,3 @@
-## 文档 V1.0.0-Beta 
-
 *Github用户如果访问速度慢的话，点击[在线阅读](https://wangcongbirley.gitee.io/sjg/)*
 
 <p align="center">
