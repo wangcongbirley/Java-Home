@@ -104,7 +104,7 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 利用 docsify 生成文档部署在 Github pages: [docsify 官网介绍](https://docsify.js.org/#/)
 ### 作者的其他开源项目推荐
 1. [Vue-Beginner-Guide](https://github.com/wangcongbirley/Vue-Beginner-Guide) : 适合新手入门查阅的 Vue 教程。
-2. [Java-Interview](https://github.com/wangcongbirley/Java-Interview) : 工具-程序员面试题汇总。
+2. [Audition-Collection](https://github.com/wangcongbirley/Java-Interview) : 工具-程序员面试题汇总。
 
 ### 关于转载
 
