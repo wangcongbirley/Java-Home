@@ -47,39 +47,42 @@
 
 #### Spring
 
-1. [Spring 学习与面试](docs/spring.md)
+1. [Spring 学习与面试](docs/spring/spring.md)
 
 #### SpringBoot
 
-- **[SpringBoot 指南](docs/springboot.md)**
+- **[SpringBoot 指南](docs/microservice/springboot.md)**
 
 #### SpringMVC
-- [SpringMVC 工作原理详解](docs/springmvc.md)
+- [SpringMVC 工作原理详解](docs/spring/springmvc.md)
 
 #### MyBatis
 
-- [MyBatis常见面试题总结](docs/mybatis.md)
+- [MyBatis常见问题总结](docs/orm/mybatis.md)
 
 ### 微服务
 
 - [核心知识点汇总及实践指南](https://github.com/wangcongbirley/Micro-Service-Guide)
 
+#### 缓存
+- [为什么使用redis？redis使用不当会造成哪些后果](docs/cache/redis.md)
+
 ### 分布式
 
 #### elasticsearch
 
-- [elasticsearch简介](docs/elasticsearch.md)
+- [elasticsearch简介](docs/microservice/elasticsearch.md)
 
 #### 消息队列
 
 
 ## 工具
 ### Linux
-- [linux命令](docs/linux.md)
+- [linux命令](docs/microservice/linux.md)
 
 ### Docker
 
-- [Docker 解读](docs/Docker.md)
+- [Docker 解读](docs/microservice/Docker.md)
 
 ## 说明
 
