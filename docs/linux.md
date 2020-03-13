@@ -1,3 +1,7 @@
+
+
+![](/images/常用linux命令.png)
+
 ## 基于CentOS7内核
 - yum install：安装
 - sudo：root权限 输入用户密码
@@ -22,3 +26,12 @@
 - netstat：查看进程
 - kill -9：杀死进程
 - cd: ../../../ 多级父目录跳转
+
+工具：SecureCRT的SSH远程登录。
+命令：
+ps
+kill -9 端口号 强制杀死进程
+cd
+mv
+pwd
+systemctl get-default 查看默认启动方式
