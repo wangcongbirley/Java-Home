@@ -33,6 +33,8 @@
 - [工具篇](#工具篇)
     - [Linux](#linux)
     - [Docker](#docker)
+- [其他](#其他)
+    - [jvm原理](#jvm原理)
 - [说明](#说明)
     - [Senior-Java-Guide介绍](#seniorjavaguide介绍)
     - [作者的其他开源项目推荐](#作者的其他开源项目推荐)
@@ -91,6 +93,10 @@
 ### Docker
 
 - [Docker 解读](docs/microservice/Docker.md)
+
+## 其他
+### jvm原理
+- [jvm内存模型和垃圾回收](docs/basic/JVM.md)
 
 ## 说明
 
