@@ -100,11 +100,7 @@
 
 ## 说明
 
-### Senior-Java-Guide介绍
-开源 Senior-Java-Guide初始想法源于自己职业发展所趋。主要目的是为了通过这个开源平台来帮助一些有工作经验的 Java 职业更上一层楼。**文档在不断更新完善中...**
-
-*  **对于 Java 初学者来说：** 本文档倾向于给你提供一个技术路线。
-*  **对于有工作经验的 Java 小伙伴来说：** 本文档整合高并发知识，更适合回顾与提升，提升综合能力。
+**文档在不断更新完善中...**
 
 Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
