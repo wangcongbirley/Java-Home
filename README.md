@@ -70,7 +70,7 @@
 
 - [MyBatis常见问题总结](docs/orm/mybatis.md)
 
-### 微服务模式
+### 微服务架构
 
 - [核心知识点汇总及实践指南](https://github.com/wangcongbirley/Micro-Service-Guide)
 
