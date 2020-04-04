@@ -1,5 +1,10 @@
-### maven多模块设计，图示如下
-![](/images/maven-1.png)
 
-### maven模块和各组件的依赖关系
-![](/images/maven-2.png)
+
+子模块
+`<packaging>jar</packaging>`
+父模块
+`<packaging>war</packaging>`
+根模块
+`<packaging>pom</packaging>`
+
+子模块相互调用，打jar包，其他模块添加依赖后调用。
