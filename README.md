@@ -36,6 +36,7 @@
     - [Maven](#maven)
 - [其他](#其他)
     - [jvm原理](#jvm原理)
+    - [java并发](#并发)
 - [说明](#说明)
     - [Senior-Java-Guide介绍](#seniorjavaguide介绍)
     - [作者的其他开源项目推荐](#作者的其他开源项目推荐)
@@ -106,6 +107,10 @@
 ## 其他
 ### jvm原理
 - [jvm内存模型和垃圾回收](docs/basic/JVM.md)
+
+### 并发
+- [多线程并发及juc包](docs/basic/concurrent.md)
+
 
 ## 说明
 
