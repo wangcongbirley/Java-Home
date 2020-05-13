@@ -1,4 +1,4 @@
-*Github用户如果访问速度慢的话，点击[在线阅读](https://wangcongbirley.gitee.io/sjg/)*
+- 📖*Github用户如果访问速度慢的话，点击[在线阅读](https://wangcongbirley.gitee.io/sjg/)*
 
 <p align="center">
 <a href="https://github.com/wangcongbirley/Senior-Java-Guide" target="_blank">
@@ -12,7 +12,7 @@
 </p>
 
 
-## 目录
+## 目录 ☕ 
 - [系统设计](#系统设计)
     - [系统整体设计](#系统整体设计)
     - [框架篇](#框架篇)
@@ -188,27 +188,37 @@ Docker-compose 是 docker 提供的一个命令行工具，用来定义和运行
 - [多线程并发及juc包](docs/basic/concurrent.md)
 
 
-## 说明
-
-**文档在不断更新完善中...**
+## 说明📚
 
 Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
 利用 docsify 生成文档部署在 Github pages: [docsify 官网介绍](https://docsify.js.org/#/)
-### 作者的其他开源项目推荐
-1. [Micro-Service-Guide](https://github.com/wangcongbirley/Micro-Service-Guide) :核心知识点汇总及实践指南。
-2. [Vue-Beginner-Guide](https://github.com/wangcongbirley/Vue-Beginner-Guide) : 新手入门 Vue项目教程。
-3. [Audition-Collection](https://github.com/wangcongbirley/Audition-Collection) : 工具-程序员面试题汇总。
-### 关于转载
 
-如果你需要转载本仓库的一些文章到自己的博客的话，记得注明原文地址就可以了。
 
-### 如何对该开源文档进行贡献
+## 学习资源 💎
 
-1. 笔记内容大多是手敲，所以难免会有疏漏，你可以帮我找错别字。
-2. 很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。
-3. 现有的知识点难免存在不完善或者错误，所以你可以对已有知识点进行修改/补充。
-4. 想要贡献此项目吗？加入社区吧，在Issue里申请即可。
-
-### 联系我
->邮箱：wangcongbirley@foxmail.com
+- **书籍**
+  - Java 四大名著
+    - [《Java 编程思想（Thinking in java）》](https://item.jd.com/10058164.html)
+    - [《Java 核心技术 卷 I 基础知识》](https://item.jd.com/12759308.html)
+    - [《Java 核心技术 卷 II 高级特性》](https://item.jd.com/12791368.html)
+    - [《Effective Java》](https://item.jd.com/12507084.html)
+  - Java 并发
+    - [《Java 并发编程实战》](https://item.jd.com/10922250.html)
+    - [《Java 并发编程的艺术》](https://item.jd.com/11740734.html)
+  - Java 虚拟机
+    - [《深入理解 Java 虚拟机》](https://item.jd.com/11252778.html)
+  - Java 入门
+    - [《O'Reilly：Head First Java》](https://item.jd.com/10100190.html)
+    - [《Java 从入门到精通》](https://item.jd.com/12555860.html)
+    - [《疯狂 Java 讲义》](https://item.jd.com/12518025.html)
+  - 其他
+    - [《 Java 网络编程》](https://item.jd.com/11544991.html)
+    - [《Java 加密与解密的艺术》](https://item.jd.com/26122568270.html)
+    - [《Java 程序员面试宝典》](https://item.jd.com/11772823.html)
+- **教程、社区**
+  - [Runoob Java 教程](https://www.runoob.com/java/java-tutorial.html)
+  - [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+  - [Java](https://github.com/TheAlgorithms/Java)
+  - [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+  - [advanced-java](https://github.com/doocs/advanced-java)
