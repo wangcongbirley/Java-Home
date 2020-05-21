@@ -130,6 +130,8 @@ gateway-admin 提供路由应用管理，包括路由配置，设置灰度分流
 
 #### 系统监控
 
+监控数据埋码，公共js植入自动采集代码，每个页面挂载函数中添加埋码。
+
 1. [Kibana](docs/kibana.md)
 
 2. [druid](docs/druid.md)
