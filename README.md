@@ -137,6 +137,8 @@ gateway-admin 提供路由应用管理，包括路由配置，设置灰度分流
 1. [Kibana](docs/kibana.md)
 
 2. [druid](docs/druid.md)
+### 跳板机
+使用jumper连接远程桌面、linux主机。
 
 #### 部署
 
