@@ -11,9 +11,9 @@
   <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
 </p>
 
-<h1 align="center">JSG</h1>
+<h1 align="center">Java-Home</h1>
 
-> ☕ **JSG** 是一个 Java 核心技术及实践教程，从头搭建可承载高并发量访问的系统。
+> ☕ **Java-Home** 是一个 Java 核心技术及实践教程，从头搭建可承载高并发量访问的系统。
 ## 目录 ☕ 
 - [系统设计](#系统设计)
     - [系统整体设计](#系统整体设计)
