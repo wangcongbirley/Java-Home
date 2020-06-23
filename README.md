@@ -107,7 +107,7 @@ gateway-admin 提供路由应用管理，包括路由配置，设置灰度分流
 - zuul
 
 #### API网关
-
+使用API中心订阅机制。
 
 ### 注册中心
 - Zookeeper
